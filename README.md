@@ -1,4 +1,4 @@
-# GG_EQUIPMENT_DETECTION
+# PROYECTO_AECO_VISION
 # Prototipo AECO CV: Detección de Maquinaria y EPP en Obra 🏗️
 
 ## 1. Planteamiento del Problema
